@@ -10,20 +10,3 @@ export default class App extends React.Component {
     );
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  /*textinput: {
-    marginLeft: 5,
-    marginRight: 5,
-    height: 50,
-    borderColor: '#000000',
-    borderWidth: 1,
-    paddingLeft: 5
-  }*/
-});
